@@ -2,6 +2,9 @@
 
 
 
+************Algorithm*******************
+
+
 
 
 ![image](https://github.com/user-attachments/assets/d9137c97-d510-4ddd-8e44-b406e23f9b8f)
